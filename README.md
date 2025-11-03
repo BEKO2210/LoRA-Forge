@@ -54,7 +54,3 @@ This project is licensed under the **Apache 2.0 License**. See the `LICENSE` fil
 ## ✍️ Author
 
 Created by [**BEKO2210**](https://github.com/BEKO2210)
-
-## ✍️ Author
-
-Created by [**BEKO2210**](https://github.com/BEKO2210)
