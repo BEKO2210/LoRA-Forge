@@ -8,6 +8,8 @@ This tool provides a simple UI to abstract away the complexity of setting up tra
 
 ![LoRA Forge in Action](https://github.com/user-attachments/assets/c9367c33-d941-450f-a032-68b209d7dfad)
 
+![LoRA Forge Training](https://github.com/user-attachments/assets/7eacefa6-937d-41cb-ad15-52d23e553237)
+
 ## 🚀 Features
 
 * **Intuitive UI:** Easily configure all key training parameters (Model, Dataset, Epochs, Learning Rate, LoRa Rank, etc.).
@@ -46,3 +48,9 @@ This tool provides a simple UI to abstract away the complexity of setting up tra
 ## 📄 License
 
 This project is licensed under the **Apache 2.0 License**. See the `LICENSE` file for details.
+
+---
+
+## ✍️ Author
+
+Created by [**BEKO2210**](https://github.com/BEKO2210)
