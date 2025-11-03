@@ -6,7 +6,7 @@ This tool provides a simple UI to abstract away the complexity of setting up tra
 
 ![Screenshot of LoRA Forge UI](https://github.com/user-attachments/assets/8478cb4e-beaa-4812-9069-3b15b5137ea1)
 
-![LoRA Forge in Action](https://github.com/user-attachments/assets/c9367c33-d941-450f-a032-68b209d7dfad)
+![LoRA Forge in Action](https://github.com/user-attachments/assets/a42629e8-d431-47d8-b6ca-90bdf9752b72)
 
 ![LoRA Forge Training](https://github.com/user-attachments/assets/7eacefa6-937d-41cb-ad15-52d23e553237)
 
@@ -50,6 +50,10 @@ This tool provides a simple UI to abstract away the complexity of setting up tra
 This project is licensed under the **Apache 2.0 License**. See the `LICENSE` file for details.
 
 ---
+
+## ✍️ Author
+
+Created by [**BEKO2210**](https://github.com/BEKO2210)
 
 ## ✍️ Author
 
