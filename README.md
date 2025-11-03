@@ -6,6 +6,8 @@ This tool provides a simple UI to abstract away the complexity of setting up tra
 
 ![Screenshot of LoRA Forge UI](https://github.com/user-attachments/assets/8478cb4e-beaa-4812-9069-3b15b5137ea1)
 
+![LoRA Forge in Action](https://github.com/BEKO2210/LoRA-Forge/issues/2#issue-3580235105)
+
 ## 🚀 Features
 
 * **Intuitive UI:** Easily configure all key training parameters (Model, Dataset, Epochs, Learning Rate, LoRa Rank, etc.).
