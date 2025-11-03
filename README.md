@@ -4,8 +4,7 @@
 
 This tool provides a simple UI to abstract away the complexity of setting up training jobs, allowing you to focus on experimenting with models and datasets.
 
-![Screenshot of LoRA Forge UI](https://github.com/BEKO2210/LoRA-Forge/assets/...)
-*(Optional: Du kannst einen Screenshot hier einbetten, damit Besucher sofort sehen, was es ist)*
+![Screenshot of LoRA Forge UI](https://github.com/user-attachments/assets/8478cb4e-beaa-4812-9069-3b15b5137ea1)
 
 ## 🚀 Features
 
@@ -44,4 +43,4 @@ This tool provides a simple UI to abstract away the complexity of setting up tra
 
 ## 📄 License
 
-This project is licensed under the [NAME DER LIZENZ] License. See the `LICENSE` file for details.
+This project is licensed under the **Apache 2.0 License**. See the `LICENSE` file for details.
