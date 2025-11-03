@@ -1,0 +1,5 @@
+
+{
+  "name": "Unsloth LoRA Trainer UI",
+  "description": "A sleek and modern user interface to configure, run, and monitor Unsloth/LoRA training processes. This application provides a user-friendly dashboard for managing fine-tuning jobs that run in the background on WSL/Windows, and includes an AI-powered assistant to help generate configurations."
+}
